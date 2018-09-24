@@ -19,6 +19,7 @@ An alternative to Chrome OS. One that is completely open-source, easy to hack-on
 ### Initial goal (Anima v1):
 
 - A clean base OS image with support for PWAs (Progressive Web Apps), a few basic (non-web) apps and proper sandboxing.
+- Up-to-date online documentation of the development process.
 
 ### Goals in regards to Linux kernel development:
 
