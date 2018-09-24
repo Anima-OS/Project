@@ -9,7 +9,7 @@ Project Description for the likes of GoFundMe
 
 - Costs of infrastructure
 - Bounties
-- Promotion
+- Promotional costs
 
 ### Goals in regards to Linux kernel development:
 
