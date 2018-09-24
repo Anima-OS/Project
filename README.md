@@ -5,7 +5,11 @@ A modern, Go/HTML5 based operating system with the Linux kernel at its heart.
 # Project
 Project Description for the likes of GoFundMe
 
-#
+### What any funding will go towards:
+
+- Costs of infrastructure
+- Bounties
+- Promotion
 
 ### Goals in regards to Linux kernel development:
 
