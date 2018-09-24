@@ -16,12 +16,20 @@ An alternative to Chrome OS. One that is completely open-source, easy to hack-on
 - Bounties
 - Promotional costs
 
+### Initial goal (Anima v1):
+
+- A clean base OS image with support for PWAs (Progressive Web Apps), a few basic (non-web) apps and proper sandboxing.
+
 ### Goals in regards to Linux kernel development:
 
 - The creation of a sustainable (soft) fork of the upstream Linux kernel.
 - Replacing the Code of Conduct with a more sensible, technology-centric meritocratic oath. 
   The Code of Standards (https://anima-os.github.io/CoS/CODE_OF_STANDARDS)
 - Investigating Rust integration as well as the creation of a standardized kernel module toolkit (think IOKit/Driver Kit).
+
+### Other sidegoals:
+
+- Growing the number of available, multi-browser Webextension APIs.
 
 Why 10,000 euros? With a quasi competing initiative under the umbrella of the CoC Beacon, I thought it would be
 interesting to see which project can reach a similar funding goal first. That being said, every little bit helps.
