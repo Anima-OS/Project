@@ -31,8 +31,11 @@ An alternative to Chrome OS. One that is completely open-source, easy to hack-on
 ### Other sidegoals:
 
 - Growing the number of available, multi-browser Webextension APIs.
+- Providing upstream integration with Firefox (which Quokka, Anima's browser/runtime, is based upon).
 
-Why 10,000 euros? With a quasi competing initiative under the umbrella of the CoC Beacon, I thought it would be
+### Why 10,000 euros? 
+
+With a quasi competing initiative under the umbrella of the CoC Beacon, I thought it would be
 interesting to see which project can reach a similar funding goal first. That being said, every little bit helps.
 The project will definitely move forward though, even if it doesn't hit the mark. Open Source and OS development are my passion.
 I've worked on this (as well as contributed to other projects) since 2013 now and am more than motivated to work on
