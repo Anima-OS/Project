@@ -12,6 +12,7 @@ An alternative to Chrome OS. One that is completely open-source, easy to hack-on
 
 ### What funding will go towards:
 
+- Development
 - Costs of infrastructure
 - Bounties
 - Promotional costs
