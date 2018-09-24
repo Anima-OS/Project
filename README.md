@@ -1,9 +1,14 @@
-Anima
+# Anima
 
-A modern, Go/HTML5 based operating system with the Linux kernel at its heart.
+## Project
 
-# Project
-Project Description for the likes of GoFundMe
+The evolution of computing in general and the web in particular has opened up software to new challenges but also opportunities. One challenge is portability, which is where modern browsers and common runtimes offer a solution.
+
+One such product is Chrome OS. An operating system that grows at a staggering rate but lacks proper competition and comes with its own set of lock-in mechanisms.
+
+Anima strives to be a modern, Go/HTML5 based operating system with the Linux kernel at its heart.
+
+An alternative to Chrome OS. One that is completely open-source, easy to hack-on (in fact, the hope of introducing an entirely new generation of software developers to OS development is one of the pillars of this project) and highly customizable.
 
 ### What funding will go towards:
 
